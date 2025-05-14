@@ -1,13 +1,32 @@
-## Hi there 👋
+# Hi, I'm Charlie Peroulas
+
+Welcome to my GitHub portfolio! I'm a Computer Science major with a Finance minor at Miami University, passionate about building creative and data-driven solutions. From full-stack web apps to machine learning models, my work blends technical depth with real-world impact.
+
+---
+
+## Technologies & Tools
+
+- **Languages**: Python, Java, C++, JavaScript, SQL
+- **Web**: HTML, CSS, Bootstrap, React, Node.js, Firebase
+- **Data/ML**: pandas, scikit-learn, NumPy, XGBoost, matplotlib
+- **Tools**: Git, GitHub, VS Code, Docker, MongoDB, Google Colab
+
+---
+
+## Featured Projects
 
 
-**charninja1/charninja1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I'm Learning Now
 
-## 🔭 I’m currently working on being a student
-# 🌱 I’m currently taking classess in both ETBD and Computer Science, and learning both about deisng principles, and technical coding.
-# 👯 I’m looking to collaborate on any projects
-## 📫 How to reach me: my email is peroulca@miamioh.edu
-# He/Him
-]
+- Advanced poker AI and game theory modeling
+- High-performance backend APIs using Flask/FastAPI
+- Business strategy and AI consulting (Purple Crayon Partners)
+
+---
+
+## Connect with Me
+
+- LinkedIn: [charlie-peroulas](https://www.linkedin.com/in/charlie-peroulas/)
+- Email: caperoulas@gmail.com
