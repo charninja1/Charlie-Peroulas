@@ -1,6 +1,7 @@
 # Hi, I'm Charlie Peroulas
 
-Welcome to my GitHub portfolio! I'm a Computer Science major with a Finance minor at Miami University, passionate about building creative and data-driven solutions. From full-stack web apps to machine learning models, my work blends technical depth with real-world impact.
+I'm a Computer Science major with a Finance minor at Miami University. I’m currently focused on developing technical skills across software engineering, data analysis, web apps, and machine learning.
+
 
 ---
 
