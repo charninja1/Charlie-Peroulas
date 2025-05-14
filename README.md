@@ -20,9 +20,9 @@ Welcome to my GitHub portfolio! I'm a Computer Science major with a Finance mino
 
 ## What I'm Learning Now
 
-- Advanced poker AI and game theory modeling
-- High-performance backend APIs using Flask/FastAPI
-- Business strategy and AI consulting (Purple Crayon Partners)
+- Machine learning
+- Knowledge Representation
+- Generative AI
 
 ---
 
