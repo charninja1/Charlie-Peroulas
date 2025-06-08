@@ -1,6 +1,6 @@
 # Hi, I'm Charlie Peroulas
 
-I'm a Computer Science major with a Finance minor at Miami University. I’m currently focused on developing technical skills across software engineering, data analysis, web apps, and machine learning.
+I'm a Computer Science major with a minor in Finance and a minor in Aritificial Intelligence and Machine Learning at Miami University. I’m currently focused on developing technical skills across software engineering, data analysis, web apps, and machine learning.
 
 
 ---
