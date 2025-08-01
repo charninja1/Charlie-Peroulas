@@ -15,6 +15,7 @@ I'm a Computer Science major with minors in Finance and Aritificial Intelligence
 
 ## Featured Projects
 https://github.com/charninja1/Wordle-Solver
+
 https://github.com/charninja1/Alphadoku-Solver
 
 ---
