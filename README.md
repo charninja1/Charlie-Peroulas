@@ -8,7 +8,7 @@ I'm a Computer Science major with minors in Finance and Aritificial Intelligence
 ## Technologies & Tools
 
 - **Languages**: Python, Java, C++, JavaScript, SQL
-- **Web**: HTML, CSS, Bootstrap, React, Node.js, Firebase
+- **Web**: HTML, CSS, Bootstrap
 - **ML**: pandas, scikit-learn, NumPy, XGBoost, matplotlib
 
 ---
