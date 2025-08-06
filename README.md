@@ -28,6 +28,7 @@ https://github.com/charninja1/Alphadoku-Solver
 - Machine learning
 - Knowledge Representation
 - Generative AI
+- Agentic AI and MCP
 
 ---
 
