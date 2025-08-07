@@ -21,6 +21,9 @@ https://github.com/charninja1/Wordle-Solver
 **DLV Alphadoku Solver**
 https://github.com/charninja1/Alphadoku-Solver
 
+**OPENAI Agent Stock Analyzer**
+https://github.com/charninja1/stock-analyzer
+
 ---
 
 ## What I'm Learning Now
